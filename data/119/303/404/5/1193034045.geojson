@@ -40,7 +40,7 @@
         "gn:id":1880604
     },
     "wof:country":"SG",
-    "wof:geomhash":"35d3b773904970b8a731f2c4906c0a09",
+    "wof:geomhash":"109cbc200a7faa8f26a953259102a7b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,5 +65,5 @@
     104.0,
     1.38333
 ],
-  "geometry": {"coordinates":[104.0,1.38333],"type":"Point"}
+  "geometry": {"coordinates":[104,1.38333],"type":"Point"}
 }
