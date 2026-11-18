@@ -72,12 +72,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Victoria"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7ef4\u591a\u5229\u4e9a\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7dad\u591a\u5229\u4e9e\u6cb3"
-    ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -121,7 +115,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1636502477,
+    "wof:lastmodified":1794999722,
     "wof:name":"Victoria",
     "wof:parent_id":1729837223,
     "wof:placetype":"neighbourhood",
