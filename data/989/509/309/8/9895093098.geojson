@@ -1,0 +1,75 @@
+{
+  "id": 9895093098,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93333,1.33333,103.93333,1.33333",
+    "geom:latitude":1.33333,
+    "geom:longitude":103.93333,
+    "gn:population":276990,
+    "iso:country":"SG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1880159: name \"Ulu Bedok\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1880159"
+        },
+        {
+            "citation":"GeoNames populated place 1880159: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1880159"
+        },
+        {
+            "citation":"GeoNames populated place 1880159: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1880159"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1729834131 (Singapore), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632605,
+        102191569,
+        1729834131,
+        1729834133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880159
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"360591c19d3b72d1a9d3174b2580913c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":9895093098,
+            "region_id":1729834133
+        }
+    ],
+    "wof:id":9895093098,
+    "wof:lastmodified":1795747248,
+    "wof:name":"Ulu Bedok",
+    "wof:parent_id":1729834131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93333,
+    1.33333,
+    103.93333,
+    1.33333
+],
+  "geometry": {"coordinates":[103.93333,1.33333],"type":"Point"}
+}

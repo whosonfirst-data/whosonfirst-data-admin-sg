@@ -1,0 +1,75 @@
+{
+  "id": 9895093099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90278,1.39944,103.90278,1.39944",
+    "geom:latitude":1.39944,
+    "geom:longitude":103.90278,
+    "gn:population":52200,
+    "iso:country":"SG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1880463: name \"Matilda Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1880463"
+        },
+        {
+            "citation":"GeoNames populated place 1880463: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1880463"
+        },
+        {
+            "citation":"GeoNames populated place 1880463: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1880463"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1729834131 (Singapore), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632605,
+        102191569,
+        1729834131,
+        1729834133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880463
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"da829c9bf87a9a46b1fe5e0e7466e6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":9895093099,
+            "region_id":1729834133
+        }
+    ],
+    "wof:id":9895093099,
+    "wof:lastmodified":1795747248,
+    "wof:name":"Matilda Estate",
+    "wof:parent_id":1729834131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90278,
+    1.39944,
+    103.90278,
+    1.39944
+],
+  "geometry": {"coordinates":[103.90278,1.39944],"type":"Point"}
+}

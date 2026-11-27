@@ -1,0 +1,75 @@
+{
+  "id": 9895093101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95944,1.37778,103.95944,1.37778",
+    "geom:latitude":1.37778,
+    "geom:longitude":103.95944,
+    "gn:population":15340,
+    "iso:country":"SG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1880586: name \"Kampong Loyang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1880586"
+        },
+        {
+            "citation":"GeoNames populated place 1880586: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1880586"
+        },
+        {
+            "citation":"GeoNames populated place 1880586: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1880586"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1729834131 (Singapore), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632605,
+        102191569,
+        1729834131,
+        1729834133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880586
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"6e104b60b8fb1599520b064858055b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":9895093101,
+            "region_id":1729834133
+        }
+    ],
+    "wof:id":9895093101,
+    "wof:lastmodified":1795747248,
+    "wof:name":"Kampong Loyang",
+    "wof:parent_id":1729834131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95944,
+    1.37778,
+    103.95944,
+    1.37778
+],
+  "geometry": {"coordinates":[103.95944,1.37778],"type":"Point"}
+}
